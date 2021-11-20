@@ -1,4 +1,4 @@
-package Efficient;
+package Good;
 class Book extends StylishPrint{
     private String name, author;
     private int numpage;

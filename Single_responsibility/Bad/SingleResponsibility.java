@@ -1,4 +1,4 @@
-package Inefficient;
+package Bad;
 
 class Book{
     private String name, author;

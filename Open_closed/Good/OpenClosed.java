@@ -1,4 +1,4 @@
-package Efficient;
+package Good;
 
 abstract class SortAlgo{
     int arr[];
